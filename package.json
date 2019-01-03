@@ -1,0 +1,27 @@
+{
+  "name": "giftcards-contract",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An Ethereum smart contract for issuing, redeeming and spending gift cards",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidalihq/giftcards-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidalihq/giftcards-contract/issues"
+  },
+  "homepage": "https://github.com/bidalihq/giftcards-contract#readme",
+  "devDependencies": {
+    "truffle": "^5.0.1"
+  }
+}
