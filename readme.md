@@ -1,8 +1,8 @@
 # Ethereum Giftcards smart contract
 
-[![Build Status](https://app.bitrise.io/app/f713c5bd7f2705bd/status.svg?token=U0D9ZGwVjm-vm6nZ-mezJQ&branch=master)](https://app.bitrise.io/app/f713c5bd7f2705bd)
+[![CI](https://github.com/bidalihq/giftcards-contract/workflows/CI/badge.svg)](https://github.com/bidalihq/giftcards-contract/actions?query=workflow%3ACI)
 
-An Ethereum smart contract for issuing, redeeming and spending gift cards. 
+An Ethereum smart contract for issuing, redeeming and spending gift cards.
 
 Methods:
 

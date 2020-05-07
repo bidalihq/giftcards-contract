@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/bidalihq/giftcards-contract#readme",
   "devDependencies": {
-    "truffle": "^5.0.1"
+    "truffle": "^5.1.24"
   }
 }
